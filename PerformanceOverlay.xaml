@@ -1,0 +1,11 @@
+<Window x:Class="GameLift.PerformanceOverlay" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Width="270" Height="122" WindowStyle="None" AllowsTransparency="True" Background="Transparent" Topmost="True" ShowInTaskbar="False" ResizeMode="NoResize">
+  <Border Background="#D9161921" BorderBrush="#6072E2AE" BorderThickness="1" CornerRadius="10" Padding="14">
+    <StackPanel>
+      <TextBlock x:Name="GameNameText" FontSize="15" FontWeight="Bold" Foreground="#72E2AE"/>
+      <TextBlock x:Name="CpuText" Margin="0,7,0,0"/>
+      <TextBlock x:Name="RamText" Margin="0,3,0,0"/>
+      <TextBlock x:Name="FpsText" Margin="0,3,0,0" Foreground="#AAB2C5"/>
+    </StackPanel>
+  </Border>
+</Window>

@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AURUMPC\\Documents\\Codex\\2026-07-16\\erstellen-2\\GameLift\\GameLift.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AURUMPC\\Documents\\Codex\\2026-07-16\\erstellen-2\\GameLift\\GameLift.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AURUMPC\\Documents\\Codex\\2026-07-16\\erstellen-2\\GameLift\\GameLift.csproj",
+        "projectName": "GameLift",
+        "projectPath": "C:\\Users\\AURUMPC\\Documents\\Codex\\2026-07-16\\erstellen-2\\GameLift\\GameLift.csproj",
+        "packagesPath": "C:\\Users\\AURUMPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AURUMPC\\Documents\\Codex\\2026-07-16\\erstellen-2\\GameLift\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AURUMPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

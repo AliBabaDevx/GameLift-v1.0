@@ -1,0 +1,7 @@
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\publish\GameLift.pdb
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\publish\D3DCompiler_47_cor3.dll
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\publish\PenImc_cor3.dll
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\publish\PresentationNative_cor3.dll
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\publish\vcruntime140_cor3.dll
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\publish\wpfgfx_cor3.dll
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\publish\GameLift.exe

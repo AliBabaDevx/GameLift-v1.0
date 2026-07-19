@@ -1,0 +1,7 @@
+<Window x:Class="GameLift.HistoryWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="GameLift Sessions" Width="620" Height="520" WindowStartupLocation="CenterOwner" Background="#11121A">
+  <Grid Margin="24"><Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+    <StackPanel><TextBlock Text="Sitzungsverlauf" FontSize="26" FontWeight="SemiBold"/><TextBlock Text="Die letzten 50 Spielstarts werden nur lokal gespeichert." Foreground="#A5A1B2" Margin="0,5,0,0"/></StackPanel>
+    <ListBox x:Name="HistoryList" Grid.Row="1" Margin="0,22,0,18" Background="Transparent" BorderThickness="0" DisplayMemberPath="Summary"/>
+    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right"><Button Content="Verlauf leeren" Click="Clear_Click" Background="#3A2634"/><Button Content="Schließen" Click="Close_Click" Background="#6E52CE" Margin="6,0,0,0"/></StackPanel>
+  </Grid>
+</Window>

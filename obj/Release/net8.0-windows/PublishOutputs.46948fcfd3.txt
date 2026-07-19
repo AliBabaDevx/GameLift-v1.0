@@ -1,0 +1,5 @@
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\GameLift\bin\Release\net8.0-windows\publish\GameLift.exe
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\GameLift\bin\Release\net8.0-windows\publish\GameLift.dll
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\GameLift\bin\Release\net8.0-windows\publish\GameLift.deps.json
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\GameLift\bin\Release\net8.0-windows\publish\GameLift.runtimeconfig.json
+C:\Users\AURUMPC\Documents\Codex\2026-07-16\erstellen-2\GameLift\bin\Release\net8.0-windows\publish\GameLift.pdb
