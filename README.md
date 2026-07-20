@@ -1,5 +1,10 @@
 # ✨ Glint
 
+![GitHub release](https://img.shields.io/github/v/release/AlibabadevX/Glint)
+![GitHub downloads](https://img.shields.io/github/downloads/AlibabadevX/Glint/total)
+![GitHub stars](https://img.shields.io/github/stars/AlibabadevX/Glint?style=social)
+![License](https://img.shields.io/github/license/AlibabadevX/Glint)
+
 <p align="center">
   <img width="400" height="400" alt="Neues Projekt" src="https://github.com/user-attachments/assets/4d5b2095-e3a3-4d90-8355-df2cd1412de1" />
 </p>
