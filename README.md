@@ -1,7 +1,7 @@
 
-# GameLift 🚀
+# Glint 🚀
 
-GameLift is an open-source Windows application built with C# and WPF.
+Glint Launcher is an open-source Windows application built with C# and WPF.
 
 ## Features
 - Profile management
