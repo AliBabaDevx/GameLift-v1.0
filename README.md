@@ -1,7 +1,7 @@
 # ✨ Glint
 
 <p align="center">
-  <img src="Assets/Logo.png" width="120">
+  <img width="400" height="400" alt="Neues Projekt" src="https://github.com/user-attachments/assets/4d5b2095-e3a3-4d90-8355-df2cd1412de1" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ It only takes a second and really helps the project grow!
 
 ## 📸 Preview
 
-> *(Insert a screenshot here)*
+> <img width="1919" height="1008" alt="og-image" src="https://github.com/user-attachments/assets/0ef9ea75-1d09-4ddd-8187-ce8bb932dd2e" />
 
 ---
 
